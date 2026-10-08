@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Sharip Isaev</title>
+  <desc id="desc">AI research, systems analysis and spatial intelligence. A blue and teal network illustration.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2673d9"/>
+      <stop offset="1" stop-color="#20b8ac"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="18" fill="#111d2d"/>
+  <rect x="0" y="24" width="5" height="202" rx="2.5" fill="url(#accent)"/>
+  <circle cx="1107" cy="111" r="181" fill="#192c44"/>
+  <g fill="none" stroke="#344d6a" stroke-width="1.5">
+    <path d="M865 90 L965 57 L1067 102 L1014 198 L904 189 Z"/>
+    <path d="M865 90 L1014 198 M965 57 L904 189 M965 57 L1014 198 M904 189 L1067 102"/>
+    <path d="M965 57 L1136 61 L1160 162 L1014 198 M1067 102 L1136 61 M1067 102 L1160 162"/>
+  </g>
+  <path d="M865 90 L965 57 L1067 102 L1014 198" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <g fill="#111d2d" stroke="#344d6a" stroke-width="2">
+    <circle cx="904" cy="189" r="7"/>
+    <circle cx="1136" cy="61" r="7"/>
+    <circle cx="1160" cy="162" r="7"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="865" cy="90" r="7"/>
+    <circle cx="965" cy="57" r="9"/>
+    <circle cx="1067" cy="102" r="11"/>
+    <circle cx="1014" cy="198" r="7"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="55" y="63" fill="#b0c3da" font-size="15" font-weight="600" letter-spacing="3">ENGINEERING · DATA · AI</text>
+    <text x="52" y="129" fill="#eef5ff" font-size="58" font-weight="700" letter-spacing="-1.5">Sharip Isaev</text>
+    <text x="55" y="180" fill="#b0c3da" font-size="24">AI research · Systems analysis · Spatial intelligence</text>
+  </g>
+</svg>
