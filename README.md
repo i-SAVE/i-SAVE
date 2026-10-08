@@ -1,64 +1,52 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-SAVE/i-SAVE/main/assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-SAVE/i-SAVE/main/assets/profile-light.svg">
-  <img alt="Sharip Isaev — AI research, systems analysis and spatial intelligence" src="https://raw.githubusercontent.com/i-SAVE/i-SAVE/main/assets/profile-light.svg" width="100%">
+  <source media="(max-width: 600px)" srcset="assets/editorial/hero-mobile.svg">
+  <img src="assets/editorial/hero.svg" alt="Sharip Isaev — Applied AI, systems analysis and spatial data" width="100%">
 </picture>
 
-**English** · [Русский](README.ru.md)
+<p align="center">
+  <a href="mailto:isaev.list@list.ru"><img src="assets/editorial/email.svg" alt="Email" width="96" height="26"></a>
+  <a href="https://t.me/I_SA_VE"><img src="assets/editorial/telegram.svg" alt="Telegram" width="96" height="26"></a>
+  <a href="https://orcid.org/0009-0006-8141-5110"><img src="assets/editorial/orcid.svg" alt="Orcid" width="96" height="26"></a>
+</p>
 
-[Projects](#selected-projects) · [Research](#research--tools) · [Education](#education) · [Contact](#contact)
+**English** / [Русский](README.ru.md)
 
-<a href="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" title="Cat music GIF · Tenor"><img align="right" src="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" width="112" height="112" alt="A cat enjoying music in headphones"></a>
+<table>
+<tr>
+<td valign="top">
+<h3>From engineering to applied AI.</h3>
+<p>I’m Sharip, a civil engineer and systems analyst. I work on reliable machine learning, spatial data and decision support.</p>
+<p><strong>Currently:</strong> AI Product Management at <a href="https://aiproduct.itmo.ru/">ITMO × Alfa-Bank</a>. Part of AI Talent Hub.</p>
+</td>
+<td width="124" align="center" valign="middle">
+<img src="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" alt="A cat listening to music in headphones" width="96" height="96">
+</td>
+</tr>
+</table>
 
-### Hi, I’m Sharip
+## Selected work
 
-I'm **Sharip Isaev**, a civil engineer and systems analyst working on applied AI research. My interests connect reliable machine learning, spatial decision support and the built environment.
+<a href="https://github.com/i-SAVE/bnn-uncertainty-decomposition"><img src="assets/editorial/uncertainty.svg" alt="Bayesian uncertainty — Uncertainty decomposition & OOD" width="100%"></a>
 
-**Currently:** Master's student in **AI Product Management** at **ITMO University × Alfa-Bank**. Part of the **AI Talent Hub** community, founded by **ITMO and Napoleon IT**.
+<a href="https://github.com/i-SAVE/diffusion-length-inference-tvc"><img src="assets/editorial/diffusion.svg" alt="Diffusion models — DDPM / DDIM & process length" width="100%"></a>
 
-[**Email**](mailto:isaev.list@list.ru) · [**Telegram**](https://t.me/I_SA_VE) · [**ORCID**](https://orcid.org/0009-0006-8141-5110)
+<a href="https://github.com/i-SAVE/krasny-treugolnik-mcda"><img src="assets/editorial/heritage.svg" alt="AI for industrial heritage — Architectural model evaluation" width="100%"></a>
 
-<br clear="right">
+<a href="https://github.com/i-SAVE/cost-prediction-protocol"><img src="assets/editorial/cost.svg" alt="Cost prediction — Tabular models & graph networks" width="100%"></a>
 
-## Selected projects
+## Focus & toolkit
 
-Code, experiments and reproducible results.
+**Reliable AI** / uncertainty, OOD detection, reproducible experiments  
+**Spatial analysis** / GeoAI, graphs, multicriteria decisions  
+**Engineering** / BIM, parametric design, LLM applications
 
-| Project | Focus |
-| :--- | :--- |
-| [**Bayesian uncertainty**](https://github.com/i-SAVE/bnn-uncertainty-decomposition) | Predictive uncertainty decomposition and OOD detection. Experiment scripts, metrics and figures. |
-| [**Diffusion models**](https://github.com/i-SAVE/diffusion-length-inference-tvc) | Diffusion process length and DDPM/DDIM sampling. Configurations, run logs and reproducible tables. |
-| [**AI for industrial heritage**](https://github.com/i-SAVE/krasny-treugolnik-mcda) | AHP–TOPSIS evaluation of architectural visualization models. Sensitivity analysis and cross-validation. |
-| [**Cost prediction**](https://github.com/i-SAVE/cost-prediction-protocol) | Tabular models and graph neural networks with leakage control. Benchmarks, results and figures. |
-
-## Research & tools
-
-- **Reliable AI:** Bayesian neural networks, uncertainty estimation, distribution shift and reproducible experiments.
-- **Systems & spatial analysis:** multicriteria decision-making, graph models, GIS/GeoAI and urban systems.
-- **AI for engineering:** BIM automation, parametric design, LLM applications and digital twins.
-
-| Area | Tools & methods |
-| :--- | :--- |
-| Data & machine learning | Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, XGBoost, JAX |
-| Engineering & BIM | Revit, AutoCAD, Civil 3D, Dynamo, Grasshopper, Python automation |
-| Decision support & prototyping | AHP, TOPSIS, SHAP, graph modelling, Figma |
-
-**Research profiles:** [ORCID](https://orcid.org/0009-0006-8141-5110) · [ResearchGate](https://www.researchgate.net/profile/Sharip-Isaev) · [Web of Science](https://www.webofscience.com/wos/author/record/OQK-6650-2025)
-
-<details>
-<summary><strong>Engineering experience & selected achievements</strong></summary>
-
-- **Gazprom CPS** (2023–2024) — engineering and design work.
-- **Atomenergoproekt, Rosatom** (2024–2025) — structural engineering.
-- **MIPT × Russian Railways ML hackathon** (2025) — winner; locomotive assignment optimization.
-- **SPbPU** (2025) — graduated with honours.
-
-</details>
-
-## Education
+`Python` `PyTorch` `scikit-learn` `NumPy` `pandas` `SHAP`  
+`Revit` `Dynamo` `Grasshopper` `Figma`
 
 <details>
-<summary><strong>ITMO · AI Product Management / SPbPU · Civil Engineering</strong></summary>
+<summary>Education, experience & achievements</summary>
+
+### Education
 
 | Period | University & programme |
 | :--- | :--- |
@@ -68,12 +56,23 @@ Code, experiments and reproducible results.
 
 [AI Product Management programme](https://abit.itmo.ru/program/master/ai_product) · [ITMO × Alfa-Bank / AI Talent Hub](https://aiproduct.itmo.ru/)
 
+
+### Experience & achievements
+
+- **Gazprom CPS** (2023–2024) — engineering and design work.
+- **Atomenergoproekt, Rosatom** (2024–2025) — structural engineering.
+- **MIPT × Russian Railways ML hackathon** (2025) — winner; locomotive assignment optimization.
+- **SPbPU** (2025) — graduated with honours.
+
+
+### Additional tools
+
+SciPy, XGBoost, JAX, AutoCAD, Civil 3D, AHP, TOPSIS, Python automation.
+
 </details>
 
-## Contact
+---
 
-Open to research collaboration and applied AI projects in engineering, spatial analytics and decision support.
+Open to research collaborations in AI, spatial analytics and engineering.
 
-[**Email**](mailto:isaev.list@list.ru) · [**Telegram**](https://t.me/I_SA_VE) · [**ORCID**](https://orcid.org/0009-0006-8141-5110)
-
-<sub>Saint Petersburg, Russia · Profile updated: October 2026</sub>
+[isaev.list@list.ru](mailto:isaev.list@list.ru) / [Telegram](https://t.me/I_SA_VE) / [ResearchGate](https://www.researchgate.net/profile/Sharip-Isaev) / [Web of Science](https://www.webofscience.com/wos/author/record/OQK-6650-2025)

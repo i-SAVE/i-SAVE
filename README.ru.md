@@ -1,64 +1,52 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-SAVE/i-SAVE/main/assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-SAVE/i-SAVE/main/assets/profile-light.svg">
-  <img alt="Шарип Исаев — исследования ИИ, системный анализ и пространственные данные" src="https://raw.githubusercontent.com/i-SAVE/i-SAVE/main/assets/profile-light.svg" width="100%">
+  <source media="(max-width: 600px)" srcset="assets/editorial/hero-mobile.svg">
+  <img src="assets/editorial/hero.svg" alt="Шарип Исаев — прикладной ИИ, системный анализ и пространственные данные" width="100%">
 </picture>
 
-[English](README.md) · **Русский**
+<p align="center">
+  <a href="mailto:isaev.list@list.ru"><img src="assets/editorial/email.svg" alt="Email" width="96" height="26"></a>
+  <a href="https://t.me/I_SA_VE"><img src="assets/editorial/telegram.svg" alt="Telegram" width="96" height="26"></a>
+  <a href="https://orcid.org/0009-0006-8141-5110"><img src="assets/editorial/orcid.svg" alt="Orcid" width="96" height="26"></a>
+</p>
 
-[Проекты](#избранные-проекты) · [Исследования](#исследования-и-инструменты) · [Образование](#образование) · [Контакты](#контакты)
+[English](README.md) / **Русский**
 
-<a href="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" title="Cat music GIF · Tenor"><img align="right" src="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" width="112" height="112" alt="Котик слушает музыку в наушниках"></a>
-
-### Привет, я Шарип
-
-Я **Шарип Исаев**, инженер-строитель и системный аналитик. Занимаюсь прикладными исследованиями ИИ на пересечении надёжного машинного обучения, пространственного анализа и задач строительства и городской среды.
-
-**Сейчас:** учусь в магистратуре **«Управление ИИ-продуктами / AI Product Management»** — **ИТМО × Альфа-Банк**. Участник сообщества **AI Talent Hub**, созданного **ИТМО и Napoleon IT**.
-
-[**Почта**](mailto:isaev.list@list.ru) · [**Telegram**](https://t.me/I_SA_VE) · [**ORCID**](https://orcid.org/0009-0006-8141-5110)
-
-<br clear="right">
+<table>
+<tr>
+<td valign="top">
+<h3>От инженерии к прикладному ИИ.</h3>
+<p>Я Шарип, инженер-строитель и системный аналитик. Исследую надёжность машинного обучения, пространственные данные и методы принятия решений.</p>
+<p><strong>Сейчас:</strong> магистратура «Управление ИИ-продуктами», <a href="https://aiproduct.itmo.ru/">ИТМО × Альфа-Банк</a>. Сообщество AI Talent Hub.</p>
+</td>
+<td width="124" align="center" valign="middle">
+<img src="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" alt="Котик в наушниках слушает музыку" width="96" height="96">
+</td>
+</tr>
+</table>
 
 ## Избранные проекты
 
-Код, эксперименты и воспроизводимые результаты.
+<a href="https://github.com/i-SAVE/bnn-uncertainty-decomposition"><img src="assets/editorial/uncertainty.svg" alt="Bayesian uncertainty — Uncertainty decomposition & OOD" width="100%"></a>
 
-| Проект | Задача |
-| :--- | :--- |
-| [**Байесовская неопределённость**](https://github.com/i-SAVE/bnn-uncertainty-decomposition) | Декомпозиция предсказательной неопределённости и обнаружение OOD. Скрипты экспериментов, метрики и рисунки. |
-| [**Диффузионные модели**](https://github.com/i-SAVE/diffusion-length-inference-tvc) | Длина диффузионного процесса и алгоритмы DDPM/DDIM. Конфигурации, журналы запусков и воспроизводимые таблицы. |
-| [**ИИ для промышленного наследия**](https://github.com/i-SAVE/krasny-treugolnik-mcda) | Оценка архитектурных визуализаций методом AHP–TOPSIS. Анализ чувствительности и перекрёстная проверка. |
-| [**Прогнозирование стоимости**](https://github.com/i-SAVE/cost-prediction-protocol) | Табличные модели и графовые нейронные сети с контролем утечки данных. Скрипты сравнения, результаты и рисунки. |
+<a href="https://github.com/i-SAVE/diffusion-length-inference-tvc"><img src="assets/editorial/diffusion.svg" alt="Diffusion models — DDPM / DDIM & process length" width="100%"></a>
 
-## Исследования и инструменты
+<a href="https://github.com/i-SAVE/krasny-treugolnik-mcda"><img src="assets/editorial/heritage.svg" alt="AI for industrial heritage — Architectural model evaluation" width="100%"></a>
 
-- **Надёжность ИИ:** байесовские нейронные сети, оценка неопределённости, сдвиг распределения данных и воспроизводимость экспериментов.
-- **Системный и пространственный анализ:** многокритериальное принятие решений, графовые модели, GIS/GeoAI и городские системы.
-- **ИИ в инженерных задачах:** автоматизация BIM, параметрическое проектирование, приложения на основе LLM и цифровые двойники.
+<a href="https://github.com/i-SAVE/cost-prediction-protocol"><img src="assets/editorial/cost.svg" alt="Cost prediction — Tabular models & graph networks" width="100%"></a>
 
-| Область | Инструменты и методы |
-| :--- | :--- |
-| Данные и машинное обучение | Python, NumPy, pandas, SciPy, scikit-learn, PyTorch, XGBoost, JAX |
-| Инженерия и BIM | Revit, AutoCAD, Civil 3D, Dynamo, Grasshopper, автоматизация на Python |
-| Поддержка решений и прототипирование | AHP, TOPSIS, SHAP, графовое моделирование, Figma |
+## Направления и инструменты
 
-**Научные профили:** [ORCID](https://orcid.org/0009-0006-8141-5110) · [ResearchGate](https://www.researchgate.net/profile/Sharip-Isaev) · [Web of Science](https://www.webofscience.com/wos/author/record/OQK-6650-2025)
+**Надёжность ИИ** / неопределённость, OOD, воспроизводимые эксперименты  
+**Пространственный анализ** / GeoAI, графы, многокритериальный выбор  
+**Инженерные задачи** / BIM, параметрическое проектирование, LLM
+
+`Python` `PyTorch` `scikit-learn` `NumPy` `pandas` `SHAP`  
+`Revit` `Dynamo` `Grasshopper` `Figma`
 
 <details>
-<summary><strong>Инженерный опыт и избранные достижения</strong></summary>
+<summary>Образование, опыт и достижения</summary>
 
-- **Газпром ЦПС** (2023–2024) — инженерная и проектная работа.
-- **Атомэнергопроект, Росатом** (2024–2025) — проектирование строительных конструкций.
-- **ML-хакатон МФТИ × РЖД** (2025) — победитель; оптимизация назначения локомотивов.
-- **СПбПУ** (2025) — диплом бакалавра с отличием.
-
-</details>
-
-## Образование
-
-<details>
-<summary><strong>ИТМО · Управление ИИ-продуктами / СПбПУ · Строительство</strong></summary>
+### Образование
 
 | Период | Вуз и программа |
 | :--- | :--- |
@@ -68,12 +56,23 @@
 
 [Описание программы ИТМО](https://abit.itmo.ru/program/master/ai_product) · [ИТМО × Альфа-Банк / AI Talent Hub](https://aiproduct.itmo.ru/)
 
+
+### Опыт и достижения
+
+- **Газпром ЦПС** (2023–2024) — инженерная и проектная работа.
+- **Атомэнергопроект, Росатом** (2024–2025) — проектирование строительных конструкций.
+- **ML-хакатон МФТИ × РЖД** (2025) — победитель; оптимизация назначения локомотивов.
+- **СПбПУ** (2025) — диплом бакалавра с отличием.
+
+
+### Полный набор инструментов
+
+SciPy, XGBoost, JAX, AutoCAD, Civil 3D, AHP, TOPSIS, Python automation.
+
 </details>
 
-## Контакты
+---
 
-Открыт к исследовательскому сотрудничеству и прикладным ИИ-проектам в строительстве, пространственной аналитике и поддержке принятия решений.
+Открыт к сотрудничеству в исследованиях ИИ, пространственной аналитике и инженерных проектах.
 
-[**Почта**](mailto:isaev.list@list.ru) · [**Telegram**](https://t.me/I_SA_VE) · [**ORCID**](https://orcid.org/0009-0006-8141-5110)
-
-<sub>Санкт-Петербург, Россия · Профиль обновлён в октябре 2026 года</sub>
+[isaev.list@list.ru](mailto:isaev.list@list.ru) / [Telegram](https://t.me/I_SA_VE) / [ResearchGate](https://www.researchgate.net/profile/Sharip-Isaev) / [Web of Science](https://www.webofscience.com/wos/author/record/OQK-6650-2025)
