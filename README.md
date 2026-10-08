@@ -6,32 +6,30 @@
 
 **English** · [Русский](README.ru.md)
 
-[Projects](#selected-projects) · [Education](#education) · [Research](#research--tools) · [Contact](#contact)
+[Projects](#selected-projects) · [Research](#research--tools) · [Education](#education) · [Contact](#contact)
+
+<a href="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" title="Cat music GIF · Tenor"><img align="right" src="https://media1.tenor.com/m/_N3vZNgAhqgAAAAd/cat-music.gif" width="112" height="112" alt="A cat enjoying music in headphones"></a>
+
+### Hi, I’m Sharip
 
 I'm **Sharip Isaev**, a civil engineer and systems analyst working on applied AI research. My interests connect reliable machine learning, spatial decision support and the built environment.
 
-> **Currently:** Master's student in **AI Product Management** at **ITMO University × Alfa-Bank**. Part of the **AI Talent Hub** community, founded by **ITMO and Napoleon IT**.
+**Currently:** Master's student in **AI Product Management** at **ITMO University × Alfa-Bank**. Part of the **AI Talent Hub** community, founded by **ITMO and Napoleon IT**.
+
+[**Email**](mailto:isaev.list@list.ru) · [**Telegram**](https://t.me/I_SA_VE) · [**ORCID**](https://orcid.org/0009-0006-8141-5110)
+
+<br clear="right">
 
 ## Selected projects
 
-Public research repositories with code, experimental data and documentation.
+Code, experiments and reproducible results.
 
 | Project | Focus |
 | :--- | :--- |
-| [**Bayesian uncertainty**](https://github.com/i-SAVE/bnn-uncertainty-decomposition) | Predictive uncertainty decomposition and out-of-distribution detection. Includes experiment scripts, saved metrics and figure generation. |
-| [**Diffusion models**](https://github.com/i-SAVE/diffusion-length-inference-tvc) | Controlled experiments on diffusion process length and DDPM/DDIM sampling. Includes configurations, execution logs and table-reproduction scripts. |
-| [**AI for industrial heritage**](https://github.com/i-SAVE/krasny-treugolnik-mcda) | AHP–TOPSIS comparison of generative models for architectural visualization, with sensitivity analysis and computational cross-validation. |
-| [**Cost prediction**](https://github.com/i-SAVE/cost-prediction-protocol) | Leakage-controlled comparison of tabular models and graph neural networks. Includes benchmark scripts, results and figures. |
-
-## Education
-
-| Period | University & programme |
-| :--- | :--- |
-| **2026–present** | **ITMO University** · Master's studies in **AI Product Management** (*Управление ИИ-продуктами*), 02.04.03. Programme developed with **Alfa-Bank**. |
-| **2025–2026** | **Peter the Great St. Petersburg Polytechnic University (SPbPU)** · Advanced Engineering School **“Digital Engineering”** (ПИШ). Master's studies in **Systems Analysis and Control**, 27.04.03; transferred to ITMO in 2026. |
-| **2021–2025** | **SPbPU** · Institute of Civil Engineering. **Bachelor's degree with honours** in **Civil Engineering**, 08.03.01; track: Industrial and Civil Construction of Unique Buildings and Structures. |
-
-[AI Product Management programme](https://abit.itmo.ru/program/master/ai_product) · [ITMO × Alfa-Bank / AI Talent Hub](https://aiproduct.itmo.ru/)
+| [**Bayesian uncertainty**](https://github.com/i-SAVE/bnn-uncertainty-decomposition) | Predictive uncertainty decomposition and OOD detection. Experiment scripts, metrics and figures. |
+| [**Diffusion models**](https://github.com/i-SAVE/diffusion-length-inference-tvc) | Diffusion process length and DDPM/DDIM sampling. Configurations, run logs and reproducible tables. |
+| [**AI for industrial heritage**](https://github.com/i-SAVE/krasny-treugolnik-mcda) | AHP–TOPSIS evaluation of architectural visualization models. Sensitivity analysis and cross-validation. |
+| [**Cost prediction**](https://github.com/i-SAVE/cost-prediction-protocol) | Tabular models and graph neural networks with leakage control. Benchmarks, results and figures. |
 
 ## Research & tools
 
@@ -54,6 +52,21 @@ Public research repositories with code, experimental data and documentation.
 - **Atomenergoproekt, Rosatom** (2024–2025) — structural engineering.
 - **MIPT × Russian Railways ML hackathon** (2025) — winner; locomotive assignment optimization.
 - **SPbPU** (2025) — graduated with honours.
+
+</details>
+
+## Education
+
+<details>
+<summary><strong>ITMO · AI Product Management / SPbPU · Civil Engineering</strong></summary>
+
+| Period | University & programme |
+| :--- | :--- |
+| **2026–present** | **ITMO University** · Master's studies in **AI Product Management** (*Управление ИИ-продуктами*), 02.04.03. Programme developed with **Alfa-Bank**. |
+| **2025–2026** | **Peter the Great St. Petersburg Polytechnic University (SPbPU)** · Advanced Engineering School **“Digital Engineering”** (ПИШ). Master's studies in **Systems Analysis and Control**, 27.04.03; transferred to ITMO in 2026. |
+| **2021–2025** | **SPbPU** · Institute of Civil Engineering. **Bachelor's degree with honours** in **Civil Engineering**, 08.03.01; track: Industrial and Civil Construction of Unique Buildings and Structures. |
+
+[AI Product Management programme](https://abit.itmo.ru/program/master/ai_product) · [ITMO × Alfa-Bank / AI Talent Hub](https://aiproduct.itmo.ru/)
 
 </details>
 
